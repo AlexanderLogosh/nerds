@@ -1,1 +1,1 @@
-https://github.com/AlexanderLogosh/nerd
+https://github.com/AlexanderLogosh/nerds
