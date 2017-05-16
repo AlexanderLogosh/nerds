@@ -1,1 +1,1 @@
-https://github.com/AlexanderLogosh/nerds
+https://alexanderlogosh.github.io/barbershop/
